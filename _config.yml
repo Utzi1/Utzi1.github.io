@@ -1,8 +1,5 @@
-title: Utzi1's Portfolio
-description: A personal portfolio and project showcase
-theme: jekyll-theme-minimal
-show_downloads: false
-github:
-  is_project_page: false
-  is_user_page: true
-markdown: kramdown
+theme: minima
+
+title: Utzi1 Portfolio
+description: Developer, Researcher, Open Source Enthusiast
+author: Utzi1
