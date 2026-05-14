@@ -2,4 +2,11 @@ theme: minima
 
 title: Utz's Page
 description: A Blog about Stuff and Things, like Mezcal, Asparagus, Tea, Coffee, and other things I like.
-author: Utz
+
+header_pages:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Cocktails"
+    url: "/cocktails/"
