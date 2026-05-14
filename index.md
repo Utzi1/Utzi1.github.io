@@ -1,40 +1,47 @@
-# Welcome to My Portfolio 👋
-
-I'm **Utz Rieger** — a developer and researcher passionate about **biotechnology**, **machine learning**, and **software tools**.
-
-## Quick Navigation
-
-- 📊 [Projects](projects.md) — My work and research
-- 👤 [About](about.md) — Background and interests
-- 📝 [Blog](blog/index.md) — Articles and tutorials
-- 🔧 [Resources](resources.md) — Tools and references
-
-## Featured Work
-
-### Machine Learning
-Exploring generative models, particularly **Variational Autoencoders** and deep learning applications.
-
-### Biotechnology
-Academic research in biotechnology with focus on bioinformatics and data analysis.
-
-### Development Tools
-Building practical tools for productivity: Neovim configurations, data input tools, and analysis utilities.
-
+---
+layout: default
+title: Home
 ---
 
-### Recent Blog Posts
+# Welcome
 
-- 📖 [Getting Started with Neovim](blog/neovim-setup.md)
-- 🤖 [Introduction to VAEs](blog/vae-intro.md)  
-- 📊 [Data Analysis Best Practices](blog/data-analysis.md)
+Developer | Researcher | Open Source Enthusiast
 
----
+## About Me
 
-## Let's Connect 🌐
+I'm passionate about developing innovative solutions and contributing to open-source projects. My work spans biotechnology, data analysis, and software development.
 
-- **GitHub**: [@Utzi1](https://github.com/Utzi1)
-- **Email**: [utz.rieger@uni-ulm.de](mailto:utz.rieger@uni-ulm.de)
+I believe in the power of open-source software to democratize technology and make it accessible to everyone, especially students and researchers who may not have access to expensive proprietary tools.
 
----
+## Featured Projects
 
-*Built with Markdown & GitHub Pages*
+### Biotech R-Package
+
+An R package for biotechnology research, providing tools for analyzing fermentation data, cell culture vitality, and spectroscopy measurements.
+
+[View on GitHub](https://github.com/Utzi1/Biotech)
+
+### Data Analysis Tools
+
+Custom tools and utilities for analyzing laboratory data, creating visualizations, and generating reports efficiently.
+
+[Explore More](https://github.com/Utzi1)
+
+### Open Source Contributions
+
+Active contributor to various open-source projects focused on scientific computing and biotechnology research.
+
+[GitHub Profile](https://github.com/Utzi1)
+
+## Skills & Expertise
+
+- **Programming Languages:** R, Python, JavaScript, HTML/CSS
+- **Data Analysis:** Statistical analysis, visualization, fermentation modeling, spectroscopy
+- **Tools & Frameworks:** Git, GitHub, RStudio, Jupyter
+
+## Get in Touch
+
+Interested in collaborating or learning more about my work?
+
+- [GitHub](https://github.com/Utzi1)
+- [Email](mailto:contact@example.com)
