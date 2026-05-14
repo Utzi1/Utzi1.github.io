@@ -10,4 +10,4 @@ Therefore, this section is subdivided into my own cocktails and those that I jus
   - [Pomme j'adore](cocktails/pomme_jadore.md)
   - [Better than any Negroni](cocktails/besser_als_jeder_negroni.md)
   - [Der Spezi-alist](cocktails/spezialist.md)
-  - [not on my miond](cocktails/not_on_my_mind.md)
+  - [not on my mind](cocktails/not_on_my_mind.md)
