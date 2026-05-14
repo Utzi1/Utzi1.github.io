@@ -24,4 +24,4 @@ During the fall, you'll may spot me in the woods, picking mushrooms.
 
 # Spirits and Cocktails
 
-Here, there is room for scrolling through cocktail recipes ands spirit reviews.
+[Here](cocktails/index.md), there is room for scrolling through cocktail recipes and spirit reviews.
