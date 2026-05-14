@@ -1,47 +1,25 @@
 ---
-layout: default
 title: Home
 ---
 
 # Welcome
 
-Developer | Researcher | Open Source Enthusiast
+Hej there, this is my blog, focusing on everything that brings joy to life.
+I'll share stories and thoughts on food, drink, travel, and the little things that make life worth living.
 
-## About Me
+As I was born in 1996, I never really grew accustomed with the blogs and forums as they existed before 
+Social media took over the scene. My very first online presence was on facebook, later on instagram.
+However, these platforms lost their charm, so a somewhat-blog-alike will fix the gap for me, or maybe not.
+Stay tuned!
 
-I'm passionate about developing innovative solutions and contributing to open-source projects. My work spans biotechnology, data analysis, and software development.
+# About Me
 
-I believe in the power of open-source software to democratize technology and make it accessible to everyone, especially students and researchers who may not have access to expensive proprietary tools.
+I'm currently a PhD student in the field of Systems Biology.
+Further more, I'm a really passionate cook and spirit enthusiast.
+Since my Masters in Sweden, I also started collecting cast-iron and
+copper objects, which may serve in the kitchen or for whatever else.
+During the fall, you'll may spot me in the woods, picking mushrooms.
 
-## Featured Projects
+# Spirits and Cocktails
 
-### Biotech R-Package
-
-An R package for biotechnology research, providing tools for analyzing fermentation data, cell culture vitality, and spectroscopy measurements.
-
-[View on GitHub](https://github.com/Utzi1/Biotech)
-
-### Data Analysis Tools
-
-Custom tools and utilities for analyzing laboratory data, creating visualizations, and generating reports efficiently.
-
-[Explore More](https://github.com/Utzi1)
-
-### Open Source Contributions
-
-Active contributor to various open-source projects focused on scientific computing and biotechnology research.
-
-[GitHub Profile](https://github.com/Utzi1)
-
-## Skills & Expertise
-
-- **Programming Languages:** R, Python, JavaScript, HTML/CSS
-- **Data Analysis:** Statistical analysis, visualization, fermentation modeling, spectroscopy
-- **Tools & Frameworks:** Git, GitHub, RStudio, Jupyter
-
-## Get in Touch
-
-Interested in collaborating or learning more about my work?
-
-- [GitHub](https://github.com/Utzi1)
-- [Email](mailto:contact@example.com)
+Here, there is room for scrolling through cocktail recipes ands spirit reviews.
