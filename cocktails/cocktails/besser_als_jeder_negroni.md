@@ -1,21 +1,21 @@
-# Better than any Negroni
-Negronis, once, in hot-summer-berlin, 2018, were my go-to.
-They'd supply a buzz, sugar, and a refreshing bitter taste, all in one.
-It further grant a sophisticated appearance, or maybe the promise of one.
-You could be unlucky, getting a tall glass, saying "Gordons Dry Gin", stuffed with a single, hollow ice cube and a slice of lemon.
-Maybe a with crushed ice filled tumbler, with a slice of orange.
-Anyhow, it was not necessarily on the map and often you'd need to explain what a Negroni is, and often you'd get a side eye from the bar.
-Sometimes, there was associations with former *Deutschland sucht den Superstar* contestant Daniele Negroni, a name worth a google search, if one wants to know what haircut was hot when I started High School.
-These times are over and even in tiny upper Swabian villages, you won't need to explain what will end up in the glass.#+
-By any means, that's not granting you good ice or a correct 1-1-1 ratio, using at least an ounce of each ingredient, better is 4 cl, maybe 6.
+Negronis, back in hot-summer Berlin, 2018, were my go-to. They delivered a buzz, sugar, and a refreshing bitter taste, all in one. They also lent a sophisticated air—or at least the promise of one.
 
-The Negroni even got so popular, ppl started printing its recipe op T-shirts, coupled with a certain depiction of the cocktail, following
-strict rul3s of style.
-Such hypes are not beneficial for something like a drink, or a haircut, or a fashion style, rather they'll help to make it more mainstream, ripping away its unique characteristics, its (pathetic) soul.
-Sad enough, for a wanna-be avant-garde like me, I can't help but to jump on the bandwagon and try to come up with a likewise tasteful concoction.
-That's my take for now:
+You could be unlucky and get a tall glass labeled "Gordon's Dry Gin," stuffed with a single hollow ice cube and a slice of lemon. Or maybe a tumbler filled with crushed ice and a slice of orange. Either way, Negronis weren't always on the menu, and often you'd have to explain what a Negroni is, sometimes earning a side-eye from the bartender.
 
-  - 4 cl Grappa (Nonnino Riserva Sauvignon Blanc)
-  - 3 cl Select
-  - 3 cl red Wermut (Punt e Mes)
+Occasionally, there were associations with former *Deutschland sucht den Superstar* contestant Daniele Negroni—a name worth a Google search if you want to know what haircut was hot when I started high school.
+
+Those days are over. Even in tiny Upper Swabian villages, you no longer need to explain what goes in the glass. That doesn't guarantee good ice or the correct 1-1-1 ratio (at least an ounce of each ingredient—better is 4 cl, maybe 6).
+
+The Negroni has become so popular that people print its recipe on T-shirts, paired with stylized depictions of the cocktail, following strict rules of style. Such hypes rarely benefit drinks, haircuts, or fashion—they just make them mainstream, stripping away their unique characteristics, their (pathetic) soul.
+
+Sadly, for a wannabe avant-garde like me, I can't help but jump on the bandwagon and try to create an equally tasteful concoction.
+
+Here's my take for now:
+
+- 4 cl Grappa (Nonino Riserva Sauvignon Blanc)
+- 3 cl Select
+- 3 cl red vermouth (Punt e Mes)
+- 1 cl orange oleo saccharum
+```
+
   - 1 cl Orange oleo saccharum
