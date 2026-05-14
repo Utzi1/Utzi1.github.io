@@ -7,7 +7,7 @@ Therefore, this section is subdivided into my own cocktails and those that I jus
 
 # My Cocktails
   - [Arak-Tropical](my_cocktails/arak_tropical.md)
-  - [Jasmin-im-Glas N0.1](my_cocktails/jasmin_1.md)
+  - [Jasmin-im-Glas N0.1](cocktails/jasmin1.md)
 
   - 
     
