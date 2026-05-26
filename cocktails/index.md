@@ -6,7 +6,7 @@ urges me to share them, too!
 Therefore, this section is subdivided into my own cocktails and those that I just like, but haven't came up with myself.
 
 # My Cocktails
-  - [Jasmin-im-Glas N0.1](cocktails/jasmin_im_glas.md)
+  - [Jasmin-im-Glas N0.1](cocktails/jasmin1.md)
   - [Pomme j'adore](cocktails/pomme_jadore.md)
   - [Better than any Negroni](cocktails/besser_als_jeder_negroni.md)
   - [Der Spezi-alist](cocktails/spezialist.md)
