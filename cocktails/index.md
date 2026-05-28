@@ -12,3 +12,5 @@ Therefore, this section is subdivided into my own cocktails and those that I jus
   - [Der Spezi-alist](cocktails/spezialist.md)
   - [not on my mind](cocktails/not_on_my_mind.md)
   - [Basilisk](cocktails/basilisk.md)
+  - [Orange Wermuth](cocktails/orange_wermuth.md)
+  - [OWay](cocktails/oway.md)
