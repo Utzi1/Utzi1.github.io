@@ -22,6 +22,12 @@ Since my Masters in Sweden, I also started collecting cast-iron and
 copper objects, which may serve in the kitchen or for whatever else.
 During the fall, you'll may spot me in the woods, picking mushrooms.
 
+# Tea
+
+I love tea, find out more about my tea adventures [here](tea/index.md).
+
 # Spirits and Cocktails
 
 [Here](cocktails/index.md), there is room for scrolling through cocktail recipes and spirit reviews.
+
+
