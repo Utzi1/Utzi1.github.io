@@ -1,5 +1,7 @@
 # Orange Vermouth
 
+![Wermut cocktail](wermut.jpg)
+
 No clue what orange wine is, however, big clue what orange vermouth could b3!
 In fact maybe it was invented by me.
 To make it, macerate 3 sprigs of Artemisia absinthium in 1L of medium sweet meet (honey wine) for 2 weeks.
