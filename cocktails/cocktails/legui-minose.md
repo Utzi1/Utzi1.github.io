@@ -1,6 +1,7 @@
 # Not a bean, just a nice spritz with Legui liqueur
 
-![The guy who's liqueur we use here, the Argentinian jockey Irineo Leguisamo ](Irineo_Leguisamo.jpg)
+![The guy who's liqueur we use here, the Argentinian jockey Irineo Leguisamo](Irineo_Leguisamo.jpg)
+
 A simple concoction  of:
 
   - 3 cl Legui liqueur
