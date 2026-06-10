@@ -14,3 +14,5 @@ Therefore, this section is subdivided into my own cocktails and those that I jus
   - [Basilisk](cocktails/basilisk.md)
   - [Orange Wermuth](cocktails/orange_wermuth.md)
   - [OWay](cocktails/oway.md)
+  - [Legui-minose](cocktails/legui-minose.md)
+  - [Ume-Williams](cocktails/ume-williams.md)
