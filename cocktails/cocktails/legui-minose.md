@@ -2,7 +2,7 @@
 
 ![The guy who's liqueur we use here, the Argentinian jockey Irineo Leguisamo](Irineo_Leguisamo.jpg)
 
-A simple concoction  of:
+A simple concoction of:
 
   - 3 cl Legui liqueur
   - 3 cl Mezcal
