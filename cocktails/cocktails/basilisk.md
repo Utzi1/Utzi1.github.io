@@ -5,7 +5,7 @@
 * 4 cl Túnel de Mallorca semi-dry
 * 4 cl Mezcal
 * 3 cl lemon juice
-* 2 cl Orange oleo saccarum
+* 2 cl Orange oleo saccharum
 * 1 pinch of salt
 * 3 sprigs of Basil
 

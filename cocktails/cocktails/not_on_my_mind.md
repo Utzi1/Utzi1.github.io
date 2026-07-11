@@ -1,6 +1,6 @@
 # Not-what-was-on-my-mind
 
-It really wasn't, i grabbed the wrong bottle in the store.
+It really wasn't, I grabbed the wrong bottle in the store.
 A strange mistake as the mission was to buy Arrak and not Arak.
 Here a single letter makes the difference between a spirit made from sugarcane and one made from grapes and aniseed.
 Well, I grabbed the latter.

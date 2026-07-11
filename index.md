@@ -17,10 +17,10 @@ Check my blog [here](blog/index.md) for more content.
 # About Me
 
 I'm currently a PhD student in the field of Systems Biology.
-Further more, I'm a really passionate cook and spirit enthusiast.
+Furthermore, I'm a really passionate cook and spirit enthusiast.
 Since my Masters in Sweden, I also started collecting cast-iron and
 copper objects, which may serve in the kitchen or for whatever else.
-During the fall, you'll may spot me in the woods, picking mushrooms.
+During the fall, you may spot me in the woods, picking mushrooms.
 
 # Tea
 
